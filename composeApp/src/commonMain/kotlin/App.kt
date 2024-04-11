@@ -27,6 +27,7 @@ fun App() {
             Column(modifier = Modifier.fillMaxWidth()) {
                 Text("Bienvenidos")
                 Text("Kotlin Multiplataforma con Compose")
+                Text("Kotlin Multiplataforma con Compose")
             }
         }
     }
