@@ -40,6 +40,7 @@ kotlin {
             implementation(compose.ui)
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
+            api(compose.materialIconsExtended)
 
             //PreCompose
             api("moe.tlaster:precompose:1.5.10")
